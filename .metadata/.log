@@ -1,0 +1,126 @@
+!SESSION 2018-05-26 06:18:36.335 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:19:59.361
+!MESSAGE Started Node.js v5.9.1 (V8 v4.6.85.31) in 3.112 s
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:19:59.800
+!MESSAGE Loading tern.js...
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:19:59.808
+!MESSAGE Loading library ecma5
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:19:59.841
+!MESSAGE Loading library browser
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:19:59.853
+!MESSAGE Loading library ecma6
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:19:59.865
+!MESSAGE Loading plugin doc_comment
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:19:59.892
+!MESSAGE Loading plugin aura
+
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-26 06:20:00.103
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\lacey'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:20:01.925
+!MESSAGE Tern.js (0.19.0) ready
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:20:13.092
+!MESSAGE ':core' project is not available. Please add '<module>:core</module>' to your list of partial build modules. If using para, set 'ide-search-all-files: true' and run 'para refresh'
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:20:13.176
+!MESSAGE Analyzed Lightning System JavaScript Support in 38.18 ms
+
+!ENTRY com.salesforce.ide.core 2 0 2018-05-26 06:29:25.554
+!MESSAGE  WARN [2018-05-26 06:29:22,786] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-05-26 06:29:25.560
+!MESSAGE  WARN [2018-05-26 06:29:25,559] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-05-26 06:29:25.568
+!MESSAGE  WARN [2018-05-26 06:29:25,567] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+
+!SESSION 2018-05-26 06:29:26.139 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/lacey/Desktop/bootcamp/projects/deep-dive-shuffle/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-26 06:30:11.342
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\lacey'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:12.025
+!MESSAGE Started Node.js v5.9.1 (V8 v4.6.85.31) in 1.438 s
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:12.232
+!MESSAGE Loading tern.js...
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:12.285
+!MESSAGE Loading library ecma5
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:12.296
+!MESSAGE Loading library browser
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:12.349
+!MESSAGE Loading library ecma6
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:12.358
+!MESSAGE Loading plugin doc_comment
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:12.426
+!MESSAGE Loading plugin aura
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:13.448
+!MESSAGE Tern.js (0.19.0) ready
+
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:13.985
+!MESSAGE ':core' project is not available. Please add '<module>:core</module>' to your list of partial build modules. If using para, set 'ide-search-all-files: true' and run 'para refresh'
+
+!ENTRY mega.js.tern 1 0 2018-05-26 06:30:14.088
+!MESSAGE Analyzed Lightning System JavaScript Support in 26.62 ms
+
+!ENTRY com.salesforce.ide.core 2 0 2018-05-26 06:31:06.354
+!MESSAGE  WARN [2018-05-26 06:31:06,315] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-05-26 06:31:06.366
+!MESSAGE  WARN [2018-05-26 06:31:06,364] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-05-26 06:31:06.376
+!MESSAGE  WARN [2018-05-26 06:31:06,375] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+
